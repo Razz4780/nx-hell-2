@@ -11,9 +11,6 @@
         "serve",
         "@here2/here2"
       ],
-      "env": {
-        "NODE_OPTIONS": "--inspect=9229"
-      },
       "console": "integratedTerminal",
       "internalConsoleOptions": "neverOpen",
       "skipFiles": [
